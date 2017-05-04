@@ -1,0 +1,8 @@
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\bin\Debug\netcoreapp1.1\feloop-if-sample.deps.json
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\bin\Debug\netcoreapp1.1\feloop-if-sample.runtimeconfig.json
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\bin\Debug\netcoreapp1.1\feloop-if-sample.runtimeconfig.dev.json
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\bin\Debug\netcoreapp1.1\feloop-if-sample.dll
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\bin\Debug\netcoreapp1.1\feloop-if-sample.pdb
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\obj\Debug\netcoreapp1.1\feloop-if-sample.AssemblyInfo.cs
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\obj\Debug\netcoreapp1.1\feloop-if-sample.dll
+C:\Users\mcan\Source\Repos\feloop-ifsample\feloop-if-sample\feloop-if-sample\obj\Debug\netcoreapp1.1\feloop-if-sample.pdb

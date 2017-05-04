@@ -11,6 +11,12 @@ namespace feloop_if_sample
 
             int number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine($"10'dan büyük: {GreaterThanTen(number)}");
+            Console.WriteLine($"5'e bölünebilir: {DividedByFive(number)}");
+            Console.WriteLine($"10'dan büyük ve 5'e bölünebilir: {GreaterThanTenAndDividedByFive(number)}");
+            Console.WriteLine($"10'dan büyük veya 5'e bölünebilir: {GreaterThanTenOrDividedByFive(number)}");
+
+            Console.ReadKey();
+
         }
 
         static bool GreaterThanTen(int x)
@@ -38,22 +44,18 @@ namespace feloop_if_sample
         }
         static bool GreaterThanTenAndDividedByFive(int x)
         {
-            //if (GreaterThanTen(x))
-            //{
-            //    if (DividedByFive(x))
-            //    {
-            //        return true;
-            //    }
-            //    else
-            //    {
-            //        return false;
-            //    }
-            //}
-            //else
-            //{
-            //    return false;
-            //}
             if (GreaterThanTen(x) && DividedByFive(x))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        static bool GreaterThanTenOrDividedByFive(int x)
+        {
+            if (GreaterThanTen(x) || DividedByFive(x))
             {
                 return true;
             }
